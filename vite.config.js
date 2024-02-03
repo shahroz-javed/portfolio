@@ -5,6 +5,6 @@ import vue from '@vitejs/plugin-vue'
 console.log(window.origin);
 
 export default defineConfig({
-  base:'portfolio',
+  // base:'portfolio',
   plugins: [vue()],
 })
